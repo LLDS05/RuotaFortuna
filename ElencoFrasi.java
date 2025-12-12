@@ -1,5 +1,6 @@
 import java.util.Random;
 
+
 class ElencoFrasi {
     Random random = new Random();
     Frase[][] frasi;
@@ -44,4 +45,3 @@ class ElencoFrasi {
         return null;
     }
 }
-//suca

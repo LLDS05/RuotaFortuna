@@ -1,0 +1,10 @@
+import java.util.Scanner;
+
+public class ScannerUtilities{
+    Scanner input = new Scanner(System.io);
+    String messsaggio;
+
+    String getInputString(String messaggio, Scanner input){
+        //Cosa deve prendere?
+    }
+}
