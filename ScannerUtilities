@@ -4,7 +4,24 @@ public class ScannerUtilities{
     Scanner input = new Scanner(System.io);
     String messsaggio;
 
-    String getInputString(String messaggio, Scanner input){
-        //Cosa deve prendere?
+
+    static Int getInputInt(String messsaggio){
+        while(input.hasNextInt()){
+            System.out.println("Valore non valido, inserire un valore intero: ");
+            input.nextLine();
+        }
+        int valore = input.nextInt();
+        input.nextLine();
+        return valore;
+    }
+
+    static boolean getInputYesOrNot(String messagio){
+        String input;
+        while(true){
+            System.out.print(messaggio + " (true/false): ");
+            if (input.equals("true")) retunr true;
+            if (input.equals("false")) retunr false;
+            System.out.println("Valore non valido, inserire true o false: ");
+        }
     }
 }
