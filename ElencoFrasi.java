@@ -33,15 +33,13 @@ class ElencoFrasi {
     }
 
     Frase scegliFraseCasuale(DifficoltaFrase difficolta) {
-        // FIXME Da completare
-        // Selezionare casualmente una frase della difficolta' desiderata
-        return null;
+        int indice = random.nextInt(0,this.frasi[difficolta.ordinal()].length);
+        return this.frasi[difficolta.ordinal()][indice];
     }
 
     Frase scegliFraseCasuale() {
-        // FIXME Da completare
-        // Selezionare casualmente una difficolta' tra quelle disponibili
-        // Selezionare casualmente una frase della difficolta' selezionata
-        return null;
+        int indice1 = random.nextInt(0,this.frasi.length);
+        int indice2 = random.nextInt(0,this.frasi[indice1].length);
+        return this.frasi[indice1][indice2];
     }
 }

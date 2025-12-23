@@ -1,0 +1,100 @@
+FACILE,NATURA,Aria in movimento,Il vento muove le foglie
+FACILE,NATURA,Calore naturale,Il sole scalda la terra
+FACILE,NATURA,Acqua che cade,La pioggia bagna il prato
+FACILE,NATURA,Bianca e fredda,La neve copre le montagne
+FACILE,NATURA,Acqua in viaggio,Il fiume scorre tranquillo
+FACILE,NATURA,Ombra dall’alto,Le nuvole coprono il cielo
+FACILE,NATURA,Suoni del mattino,Gli uccelli cantano all’alba
+FACILE,NATURA,Movimento dell’acqua,Il mare respira le onde
+FACILE,NATURA,Luce notturna,La luna illumina la notte
+FACILE,NATURA,Odore verde,Il bosco profuma di pino
+FACILE,NATURA,Movimento naturale,La terra trema leggermente
+FACILE,NATURA,Spiaggia estiva,La sabbia scotta al sole
+FACILE,NATURA,Acqua solida,Il ghiaccio ricopre il lago
+FACILE,NATURA,Colore del tramonto,Il cielo si tinge di rosa
+FACILE,NATURA,Piccole lavoratrici,Le api visitano i fiori
+FACILE,NATURA,Stagione del cambiamento,Le foglie cadono d’autunno
+FACILE,NATURA,Vento gentile,La brezza rinfresca il viso
+FACILE,NATURA,Nascita colorata,Il fiore apre i suoi petali
+FACILE,NATURA,Puntini luminosi,Le stelle brillano forte
+FACILE,NATURA,Rumore del temporale,Il tuono rompe il silenzio
+FACILE,LUOGHI,Spazio aperto,La piazza si riempie di gente
+FACILE,LUOGHI,Collegamento,Il ponte attraversa il fiume
+FACILE,LUOGHI,Edificio pubblico,La scuola apre al mattino
+FACILE,LUOGHI,Treni in arrivo,La stazione attende i viaggiatori
+FACILE,LUOGHI,Spazio verde,Il parco ospita molte panchine
+FACILE,LUOGHI,Percorso cittadino,La strada porta al centro
+FACILE,LUOGHI,Sabbia e acqua,La spiaggia si allunga sul mare
+FACILE,LUOGHI,Arte in mostra,Il museo espone nuove opere
+FACILE,LUOGHI,Luogo di studio,La biblioteca conserva libri
+FACILE,LUOGHI,Vetta alta,La montagna domina la valle
+FACILE,LUOGHI,Arrivi dal mare,Il porto accoglie le barche
+FACILE,LUOGHI,Zona rurale,La campagna profuma di grano
+FACILE,LUOGHI,Notte urbana,La citta' brilla di luci
+FACILE,LUOGHI,Cammino naturale,Il sentiero sale nel bosco
+FACILE,LUOGHI,Luogo agricolo,La cascina ospita animali
+FACILE,LUOGHI,Edificio alto,La torre guarda la citta'
+FACILE,LUOGHI,Bordo dell’acqua,La riva costeggia il lago
+FACILE,LUOGHI,Formazione naturale,La roccia sporge dal terreno
+FACILE,LUOGHI,Spazio interno,Il cortile raccoglie i bambini
+FACILE,LUOGHI,Punto di attesa,La fermata attende l’autobus
+FACILE,AZIONI,Attività fisica,Corro veloce nel parco
+FACILE,AZIONI,Tempo tranquillo,Leggo un libro sul divano
+FACILE,AZIONI,Cucinare,Preparo il pranzo in cucina
+FACILE,AZIONI,Comunicazione,Scrivo un messaggio veloce
+FACILE,AZIONI,Passatempo,Guardo un film con gli amici
+FACILE,AZIONI,Relax sonoro,Ascolto la musica in camera
+FACILE,AZIONI,Chiamata,Parlo al telefono con mia madre
+FACILE,AZIONI,Svago,Gioco a carte con mio fratello
+FACILE,AZIONI,Ordine,Pulisco il tavolo dopo cena
+FACILE,AZIONI,Routine serale,Spengo la luce prima di dormire
+FACILE,AZIONI,Aria fresca,Apro la finestra per respirare
+FACILE,AZIONI,Studio,Correggo gli appunti di scuola
+FACILE,AZIONI,Olfatto,Annuso il profumo dei fiori
+FACILE,AZIONI,Cibo,Taglio il pane caldo
+FACILE,AZIONI,Svago serale,Accendo la tv per rilassarmi
+FACILE,AZIONI,Spesa,Compro il pane al supermercato
+FACILE,AZIONI,Lavoro leggero,Raccolgo le foglie in giardino
+FACILE,AZIONI,Riordino,Sistemo le sedie in salotto
+FACILE,AZIONI,Attività creativa,Coloro un disegno semplice
+FACILE,AZIONI,Silenzio,Chiudo la porta piano
+FACILE,EMOZIONI,Gioia,Sorrido a un vecchio amico
+FACILE,EMOZIONI,Stupore,Mi emoziono davanti al tramonto
+FACILE,EMOZIONI,Paura,Mi spavento per un rumore forte
+FACILE,EMOZIONI,Calma,Mi rilasso ascoltando musica
+FACILE,EMOZIONI,Frustrazione,Mi arrabbio per un ritardo
+FACILE,EMOZIONI,Inaspettato,Mi sorprendo per la notizia
+FACILE,EMOZIONI,Tenerezza,Mi commuovo per un regalo
+FACILE,EMOZIONI,Fiducia,Mi fido dei miei amici
+FACILE,EMOZIONI,Malinconia,Mi sento triste senza motivo
+FACILE,EMOZIONI,Energia,Rispondo con entusiasmo
+FACILE,EMOZIONI,Lentezza,Mi annoio in attesa
+FACILE,EMOZIONI,Forza interna,Mi incoraggio da solo
+FACILE,EMOZIONI,Sicurezza,Mi sento protetto con te
+FACILE,EMOZIONI,Pace,Mi tranquillizzo lentamente
+FACILE,EMOZIONI,Gioia intensa,Provo felicita' piena
+FACILE,EMOZIONI,Ansia,Mi sento nervoso prima dell’esame
+FACILE,EMOZIONI,Imbarazzo,Mi vergogno per l’errore
+FACILE,EMOZIONI,Motivazione,Mi entusiasmo per il progetto
+FACILE,EMOZIONI,Sensibilità,Mi emoziono guardando un film
+FACILE,EMOZIONI,Conforto,Mi rincuoro con un abbraccio
+FACILE,VITA_QUOTIDIANA,Attività domestica,Lavo i piatti dopo cena
+FACILE,VITA_QUOTIDIANA,Cura personale,Stiro una camicia bianca
+FACILE,VITA_QUOTIDIANA,Inizio giornata,Faccio colazione con calma
+FACILE,VITA_QUOTIDIANA,Routine,Sistemo la spesa in cucina
+FACILE,VITA_QUOTIDIANA,Dovere,Porto fuori la spazzatura
+FACILE,VITA_QUOTIDIANA,Ordine,Rifaccio il letto al mattino
+FACILE,VITA_QUOTIDIANA,Spuntino,Mangio un panino veloce
+FACILE,VITA_QUOTIDIANA,Pulizia,Lavo i pavimenti della casa
+FACILE,VITA_QUOTIDIANA,Ufficio,Accendo il computer per lavorare
+FACILE,VITA_QUOTIDIANA,Abitudine,Prendo un caffe' al bar
+FACILE,VITA_QUOTIDIANA,Organizzazione,Sistemo la scrivania disordinata
+FACILE,VITA_QUOTIDIANA,Comunicazione,Rispondo alle email arretrate
+FACILE,VITA_QUOTIDIANA,Svago,Faccio una breve passeggiata
+FACILE,VITA_QUOTIDIANA,Lavanderia,Stendo i vestiti bagnati
+FACILE,VITA_QUOTIDIANA,Relax,Preparo una tisana calda
+FACILE,VITA_QUOTIDIANA,Batteria,Metto in carica il telefono
+FACILE,VITA_QUOTIDIANA,Routine serale,Chiudo le finestre per la notte
+FACILE,VITA_QUOTIDIANA,Gesto quotidiano,Lego i capelli prima di uscire
+FACILE,VITA_QUOTIDIANA,Visione,Pulisco gli occhiali appannati
+FACILE,VITA_QUOTIDIANA,Organizzazione,Prendo nota degli impegni
